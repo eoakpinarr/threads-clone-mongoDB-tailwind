@@ -1,3 +1,10 @@
+![alt text](https://github.com/eoakpinarr/threads-clone-mongoDB-tailwind/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-24%20at%2021.33.16.png)
+![alt text](https://github.com/eoakpinarr/threads-clone-mongoDB-tailwind/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-24%20at%2021.33.14.png)
+![alt text](https://github.com/eoakpinarr/threads-clone-mongoDB-tailwind/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-24%20at%2021.33.02.png)
+![alt text](https://github.com/eoakpinarr/threads-clone-mongoDB-tailwind/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-24%20at%2021.33.05.png)
+![alt text](https://github.com/eoakpinarr/threads-clone-mongoDB-tailwind/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-24%20at%2021.33.09.png)
+![alt text](https://github.com/eoakpinarr/threads-clone-mongoDB-tailwind/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-24%20at%2021.33.07.png)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
